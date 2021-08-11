@@ -1,6 +1,6 @@
-# Hello, World!
+# Hello, GitHub!
 
-#### 👋 My name is Tejas Shetty.
+### 👋 My name is Tejas Shetty.
 - 👀 I’m heavily into Full-Stack Development, Cyber Security, an itsy bit of CV and Machine Learning, and some more areas.
 - ✍️ I generally work with languages like Java, Python, JavaScript (ES6+), HTML5, and CSS3. (Now looking forward to work with TypeScript soon 🙂)
 - 👨‍💻 I love working with technologies like Spring Framework (especially Spring Boot), NextJS, and ReactJS. (Many more to add in the near future 😉).
